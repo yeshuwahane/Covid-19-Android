@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Covid</string>
+    <string name="covid_prevention">Wear a mask,Clean your hands.Maintain safe distance,Get vaccinated.</string>
+    <string name="wear_a_mask">Wear a mask.</string>
+    <string name="clean_your_hands">Clean your hands.</string>
+    <string name="maintain_safe_distance">Maintain safe distance.</string>
+    <string name="get_vaccinated">Get vaccinated.</string>
+    <string name="confirmed">Total Cases</string>
+    <string name="active">Active</string>
+    <string name="_5000">loading...</string>
+    <string name="recovered">Recovered</string>
+    <string name="deceased">Deceased</string>
+    <string name="vaccinated">Vaccinated</string>
+    <string name="last_updated">Last Updated</string>
+</resources>
